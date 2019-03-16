@@ -12,7 +12,6 @@
 - pandas
 - numpy
 - scikit-learn
-- scipy
 
 ## 数据集
 
